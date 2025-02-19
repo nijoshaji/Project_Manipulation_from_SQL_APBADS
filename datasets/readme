@@ -1,1 +1,18 @@
+This folder contains the raw files used for the project  
 
+Data Sources  
+1. Employee Details:  
+
+- Core employee information, including department, job title, and performance scores.  
+
+2. Project Assignments:  
+
+- Details of projects employees are involved in, project milestones, and budget allocation.  
+
+3. Attendance Records:  
+
+- Employee attendance data, including total hours worked, leaves taken, and manager feedback.  
+
+4. Training Programs:  
+
+- Data on training sessions attended by employees, covering feedback scores and technologies learned.  
